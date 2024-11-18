@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-I'm a software engineer based in the UK, channeling my efforts into Ruby programming, open source collaboration, and fostering local developer communities. I'm deeply engaged with Ecosyste.ms, my current project, which prioritizes sustainability and discovery within open source. By scrutinizing open datasets and APIs, Ecosyste.ms identifies pivotal software systems within OSS ecosystems, facilitating dependency mapping to highlight critical open-source projects in need of support.
+I'm a software engineer based in the UK, specializing in package management, and mining open-source data, ruby and rails. My current focus is [Ecosyste.ms](https://github.com/ecosyste-ms), a project that leverages my experience in package management and open data analysis to map dependencies across OSS ecosystems, highlighting the most critical projects in need of support.
 
-I'm currently working on [Ecosyste.ms](https://github.com/ecosyste-ms), which presents open datasets and APIs that perform dependency mapping (i.e. identifying key software systems where open source software is critical) of the OSS ecosystem to determine which projects are most critical and most in need of support.
+Ecosyste.ms builds upon concepts from [libraries.io](https://github.com/librariesio/libraries.io), expanding the data coverage and API capabilities to enable deeper analysis of open-source ecosystems. It offers a comprehensive foundation for researchers and funders to better understand and prioritize key open-source projects.
 
-The project builds on the ideas of an earlier application that I made, [libraries.io](https://github.com/librariesio/libraries.io), but focuses more on expanding available data and APIs to take it to the next level. This tool provides a foundational basis for researchers to better analyze OSS and for funders to better prioritize which projects most need to be funded.
+I also created [Octobox](https://github.com/octobox/octobox), a tool to help maintainers manage GitHub notifications effectively, and [24 Pull Requests](https://github.com/24pullrequests/24pullrequests), an initiative encouraging developers to contribute to open source throughout December.
+
+I’m always eager to connect with fellow developers, explore new ideas, and find ways to support the health and sustainability of open-source software.
+
+Feel free to reach out or explore my projects below!
