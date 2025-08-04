@@ -7,3 +7,9 @@ These days I’m focused on [Ecosyste.ms](https://github.com/ecosyste-ms), a pro
 I also created [Octobox](https://github.com/octobox/octobox), which helps developers manage GitHub notifications, and [24 Pull Requests](https://github.com/24pullrequests/24pullrequests), an initiative to encourage open-source contributions during December.
 
 Always happy to chat about open source, sustainability, or anything package-related. Check out my projects below or get in touch.
+
+Some current things I'm hacking on:
+
+- https://github.com/andrew/purl
+- https://github.com/andrew/vers
+- https://github.com/andrew/sidekiq-mcp
