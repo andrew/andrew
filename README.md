@@ -8,8 +8,9 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 
 Always happy to chat about open source, sustainability, or anything package-related. Check out my projects below or get in touch.
 
-Some current things I'm hacking on:
+Some other things I'm hacking on:
 
 - https://github.com/andrew/purl
 - https://github.com/andrew/vers
 - https://github.com/andrew/sidekiq-mcp
+- https://github.com/andrew/hanami-sprockets
