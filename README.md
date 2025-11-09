@@ -12,5 +12,6 @@ Some other things I'm hacking on:
 
 - https://github.com/andrew/purl
 - https://github.com/andrew/vers
+- https://github.com/andrew/swhid
 - https://github.com/andrew/sidekiq-mcp
 - https://github.com/andrew/hanami-sprockets
