@@ -10,8 +10,8 @@ Always happy to chat about open source, sustainability, or anything package-rela
 
 Some other things I'm hacking on:
 
+- https://github.com/ecosyste-ms/oss-taxonomy
+- https://github.com/ecosyste-ms/package-manager-openapi-schemas
 - https://github.com/andrew/purl
 - https://github.com/andrew/vers
 - https://github.com/andrew/swhid
-- https://github.com/andrew/sidekiq-mcp
-- https://github.com/andrew/hanami-sprockets
