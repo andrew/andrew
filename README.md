@@ -12,6 +12,7 @@ Some other things I'm hacking on:
 
 - https://github.com/ecosyste-ms/oss-taxonomy
 - https://github.com/ecosyste-ms/package-manager-openapi-schemas
+- https://github.com/ecosyste-ms/package-manager-manifest-examples
 - https://github.com/andrew/purl
 - https://github.com/andrew/vers
 - https://github.com/andrew/swhid
