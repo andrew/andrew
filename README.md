@@ -32,3 +32,18 @@ Some other things I'm hacking on:
 - [Building Ecosyste.ms Polite API Rate Limits](https://nesbitt.io/2025/12/11/building-ecosytems-polite-api-rate-limits.html)
 - [Slopsquatting meets Dependency Confusion](https://nesbitt.io/2025/12/10/slopsquatting-meets-dependency-confusion.html)
 <!-- BLOG-POSTS:END -->
+
+### Latest Repos
+
+<!-- REPOS:START -->
+- [jekyll-stats](https://github.com/andrew/jekyll-stats) - Jekyll plugin that generates site statistics
+- [typosquatting](https://github.com/andrew/typosquatting) - Detect potential typosquatting packages across package ecosystems
+- [sbom](https://github.com/andrew/sbom) - Parse, generate, and validate Software Bill of Materials (SBOM)
+- [oss-community-benchmarks](https://github.com/andrew/oss-community-benchmarks) - A benchmark framework where maintainers define what good AI-generated code looks like for their ecosystem.
+- [swhid](https://github.com/andrew/swhid) - Generate and parse SoftWare Hash IDentifiers (SWHIDs)
+- [hanami-sprockets](https://github.com/andrew/hanami-sprockets) - An alternative to hanami-assets that doesn't rely on npm
+- [sidekiq-mcp](https://github.com/andrew/sidekiq-mcp) - A Sidekiq plugin that provides an MCP (Model Context Protocol) server for LLMs to interact with Sidekiq queues, stats, and failed jobs
+- [json-schema-diff](https://github.com/andrew/json-schema-diff) - Semantic diff for JSON files using JSON Schema metadata
+- [vers](https://github.com/andrew/vers) - A Ruby gem for parsing, comparing and sorting versions according to the VERS spec.
+- [purl](https://github.com/andrew/purl) - A Ruby library for parsing, validating, and generating Package URLs (PURLs) as defined by the PURL specification
+<!-- REPOS:END -->
