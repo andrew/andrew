@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Package Registries Are Governance Providers](https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html)
 - [Jekyll Stats Plugin](https://nesbitt.io/2025/12/21/jekyll-stats-plugin.html)
 - [Federated Package Management and the Zooko Triangle](https://nesbitt.io/2025/12/21/federated-package-management.html)
 - [Package Managers Devroom at FOSDEM 2026: Schedule Announced](https://nesbitt.io/2025/12/20/fosdem-2026-package-managers-devroom-schedule.html)
@@ -18,7 +19,6 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [How I Assess Open Source Libraries](https://nesbitt.io/2025/12/15/how-i-assess-open-source-libraries.html)
 - [Supply Chain Security Tools for Ruby](https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby.html)
 - [Building Ecosyste.ms Polite API Rate Limits](https://nesbitt.io/2025/12/11/building-ecosytems-polite-api-rate-limits.html)
-- [Slopsquatting meets Dependency Confusion](https://nesbitt.io/2025/12/10/slopsquatting-meets-dependency-confusion.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
