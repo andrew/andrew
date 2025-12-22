@@ -24,6 +24,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 - [jekyll-stats](https://github.com/andrew/jekyll-stats) - Jekyll plugin that generates site statistics
 - [typosquatting](https://github.com/andrew/typosquatting) - Detect potential typosquatting packages across package ecosystems
 - [sbom](https://github.com/andrew/sbom) - Parse, generate, and validate Software Bill of Materials (SBOM)
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [sidekiq-mcp](https://github.com/andrew/sidekiq-mcp) - A Sidekiq plugin that provides an MCP (Model Context Protocol) server for LLMs to interact with Sidekiq queues, stats, and failed jobs
 - [json-schema-diff](https://github.com/andrew/json-schema-diff) - Semantic diff for JSON files using JSON Schema metadata
 - [vers](https://github.com/andrew/vers) - A Ruby gem for parsing, comparing and sorting versions according to the VERS spec.
-- [purl](https://github.com/andrew/purl) - A Ruby library for parsing, validating, and generating Package URLs (PURLs) as defined by the PURL specification
 <!-- REPOS:END -->
