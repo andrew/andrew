@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 - [Package Registries Are Governance Providers](https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html)
 - [Jekyll Stats Plugin](https://nesbitt.io/2025/12/21/jekyll-stats-plugin.html)
 - [Federated Package Management and the Zooko Triangle](https://nesbitt.io/2025/12/21/federated-package-management.html)
@@ -18,12 +19,12 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [Typosquatting in Package Managers](https://nesbitt.io/2025/12/17/typosquatting-in-package-managers.html)
 - [How I Assess Open Source Libraries](https://nesbitt.io/2025/12/15/how-i-assess-open-source-libraries.html)
 - [Supply Chain Security Tools for Ruby](https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby.html)
-- [Building Ecosyste.ms Polite API Rate Limits](https://nesbitt.io/2025/12/11/building-ecosytems-polite-api-rate-limits.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
 - [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 - [jekyll-stats](https://github.com/andrew/jekyll-stats) - Jekyll plugin that generates site statistics
 - [typosquatting](https://github.com/andrew/typosquatting) - Detect potential typosquatting packages across package ecosystems
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [hanami-sprockets](https://github.com/andrew/hanami-sprockets) - An alternative to hanami-assets that doesn't rely on npm
 - [sidekiq-mcp](https://github.com/andrew/sidekiq-mcp) - A Sidekiq plugin that provides an MCP (Model Context Protocol) server for LLMs to interact with Sidekiq queues, stats, and failed jobs
 - [json-schema-diff](https://github.com/andrew/json-schema-diff) - Semantic diff for JSON files using JSON Schema metadata
-- [vers](https://github.com/andrew/vers) - A Ruby gem for parsing, comparing and sorting versions according to the VERS spec.
 <!-- REPOS:END -->
