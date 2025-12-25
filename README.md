@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 - [Package Registries Are Governance Providers](https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html)
 - [Jekyll Stats Plugin](https://nesbitt.io/2025/12/21/jekyll-stats-plugin.html)
@@ -18,12 +19,12 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [Docker is the Lockfile for System Packages](https://nesbitt.io/2025/12/18/docker-is-the-lockfile-for-system-packages.html)
 - [Typosquatting in Package Managers](https://nesbitt.io/2025/12/17/typosquatting-in-package-managers.html)
 - [How I Assess Open Source Libraries](https://nesbitt.io/2025/12/15/how-i-assess-open-source-libraries.html)
-- [Supply Chain Security Tools for Ruby](https://nesbitt.io/2025/12/14/supply-chain-security-tools-for-ruby.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [go-bundler](https://github.com/andrew/go-bundler)
 - [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
 - [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 - [jekyll-stats](https://github.com/andrew/jekyll-stats) - Jekyll plugin that generates site statistics
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [swhid](https://github.com/andrew/swhid) - Generate and parse SoftWare Hash IDentifiers (SWHIDs)
 - [hanami-sprockets](https://github.com/andrew/hanami-sprockets) - An alternative to hanami-assets that doesn't rely on npm
 - [sidekiq-mcp](https://github.com/andrew/sidekiq-mcp) - A Sidekiq plugin that provides an MCP (Model Context Protocol) server for LLMs to interact with Sidekiq queues, stats, and failed jobs
-- [json-schema-diff](https://github.com/andrew/json-schema-diff) - Semantic diff for JSON files using JSON Schema metadata
 <!-- REPOS:END -->
