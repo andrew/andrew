@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
 - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
@@ -18,7 +19,6 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [Package Managers Devroom at FOSDEM 2026: Schedule Announced](https://nesbitt.io/2025/12/20/fosdem-2026-package-managers-devroom-schedule.html)
 - [Why JavaScript Needed Docker](https://nesbitt.io/2025/12/19/why-javascript-needed-docker.html)
 - [Docker is the Lockfile for System Packages](https://nesbitt.io/2025/12/18/docker-is-the-lockfile-for-system-packages.html)
-- [Typosquatting in Package Managers](https://nesbitt.io/2025/12/17/typosquatting-in-package-managers.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
