@@ -9,6 +9,8 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Categorizing Package Manager Clients](https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html)
+- [Categorizing Package Registries](https://nesbitt.io/2025/12/29/categorizing-package-registries.html)
 - [The Compact Index: How Bundler Scales Dependency Resolution](https://nesbitt.io/2025/12/28/the-compact-index.html)
 - [How to Ruin All of Package Management](https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html)
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
@@ -17,13 +19,13 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
 - [Package Registries Are Governance Providers](https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html)
 - [Jekyll Stats Plugin](https://nesbitt.io/2025/12/21/jekyll-stats-plugin.html)
-- [Federated Package Management and the Zooko Triangle](https://nesbitt.io/2025/12/21/federated-package-management.html)
-- [Package Managers Devroom at FOSDEM 2026: Schedule Announced](https://nesbitt.io/2025/12/20/fosdem-2026-package-managers-devroom-schedule.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [grass-ruby](https://github.com/andrew/grass-ruby) - A fast Sass compiler for Ruby, powered by grass (Rust)
+- [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
 - [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
 - [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
@@ -32,6 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [sbom](https://github.com/andrew/sbom) - Parse, generate, and validate Software Bill of Materials (SBOM)
 - [oss-community-benchmarks](https://github.com/andrew/oss-community-benchmarks) - A benchmark framework where maintainers define what good AI-generated code looks like for their ecosystem.
 - [swhid](https://github.com/andrew/swhid) - Generate and parse SoftWare Hash IDentifiers (SWHIDs)
-- [hanami-sprockets](https://github.com/andrew/hanami-sprockets) - An alternative to hanami-assets that doesn't rely on npm
-- [sidekiq-mcp](https://github.com/andrew/sidekiq-mcp) - A Sidekiq plugin that provides an MCP (Model Context Protocol) server for LLMs to interact with Sidekiq queues, stats, and failed jobs
 <!-- REPOS:END -->
