@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Open Source Activity in 2025](https://nesbitt.io/2025/12/31/open-source-activity-in-2025.html)
 - [Community Tools Bring Lockfile Support to GitHub Actions](https://nesbitt.io/2025/12/30/community-tools-bring-lockfile-support-to-github-actions.html)
 - [Categorizing Package Manager Clients](https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html)
 - [Categorizing Package Registries](https://nesbitt.io/2025/12/29/categorizing-package-registries.html)
@@ -18,13 +19,12 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
 - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
-- [Package Registries Are Governance Providers](https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
-- [gitlab-faraday](https://github.com/andrew/gitlab-faraday) - Ruby wrapper for the GitLab REST API. Fork of github.com/NARKOZ/gitlab updated to use Faraday instead of HTTParty and minimize dependencies.
+- [gitlab-faraday](https://github.com/andrew/gitlab-faraday) - Ruby wrapper for the GitLab REST API, a fork of github.com/NARKOZ/gitlab updated to use Faraday
 - [grass-ruby](https://github.com/andrew/grass-ruby) - A fast Sass compiler for Ruby, powered by grass (Rust)
 - [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
