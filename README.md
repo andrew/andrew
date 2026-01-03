@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [How Dependabot Actually Works](https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html)
 - [git-pkgs: explore your dependency history](https://nesbitt.io/2026/01/01/git-pkgs-explore-your-dependency-history.html)
 - [Open Source Activity in 2025](https://nesbitt.io/2025/12/31/open-source-activity-in-2025.html)
 - [Community Tools Bring Lockfile Support to GitHub Actions](https://nesbitt.io/2025/12/30/community-tools-bring-lockfile-support-to-github-actions.html)
@@ -18,12 +19,12 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [How to Ruin All of Package Management](https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html)
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
-- [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 - [git-pkgs](https://github.com/andrew/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time
 - [gitlab-faraday](https://github.com/andrew/gitlab-faraday) - Ruby wrapper for the GitLab REST API, a fork of github.com/NARKOZ/gitlab updated to use Faraday
 - [grass-ruby](https://github.com/andrew/grass-ruby) - A fast Sass compiler for Ruby, powered by grass (Rust)
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 - [jekyll-stats](https://github.com/andrew/jekyll-stats) - Jekyll plugin that generates site statistics
 - [typosquatting](https://github.com/andrew/typosquatting) - Detect potential typosquatting packages across package ecosystems
-- [sbom](https://github.com/andrew/sbom) - Parse, generate, and validate Software Bill of Materials (SBOM)
 <!-- REPOS:END -->
