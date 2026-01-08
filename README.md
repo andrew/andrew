@@ -24,6 +24,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
 - [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 - [git-pkgs](https://github.com/andrew/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time
 - [gitlab-faraday](https://github.com/andrew/gitlab-faraday) - Ruby wrapper for the GitLab REST API, a fork of github.com/NARKOZ/gitlab updated to use Faraday
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
 - [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 - [jekyll-stats](https://github.com/andrew/jekyll-stats) - Jekyll plugin that generates site statistics
-- [typosquatting](https://github.com/andrew/typosquatting) - Detect potential typosquatting packages across package ecosystems
 <!-- REPOS:END -->
