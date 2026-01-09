@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [brew-vulns: CVE scanning for Homebrew](https://nesbitt.io/2026/01/08/brew-vulns-cve-scanning-for-homebrew.html)
 - [The Nine Levels of JavaScript Dependency Hell](https://nesbitt.io/2026/01/05/the-nine-levels-of-javascript-dependency-hell.html)
 - [Making git-pkgs feel like Git](https://nesbitt.io/2026/01/04/making-git-pkgs-feel-like-git.html)
 - [The Package Management Landscape](https://nesbitt.io/2026/01/03/the-package-management-landscape.html)
@@ -18,12 +19,12 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [Community Tools Bring Lockfile Support to GitHub Actions](https://nesbitt.io/2025/12/30/community-tools-bring-lockfile-support-to-github-actions.html)
 - [Categorizing Package Manager Clients](https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html)
 - [Categorizing Package Registries](https://nesbitt.io/2025/12/29/categorizing-package-registries.html)
-- [The Compact Index: How Bundler Scales Dependency Resolution](https://nesbitt.io/2025/12/28/the-compact-index.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [brew-vulns](https://github.com/andrew/brew-vulns) - A Homebrew subcommand that checks installed packages for vulnerabilities
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
 - [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 - [git-pkgs](https://github.com/andrew/git-pkgs) - A git subcommand for analyzing package/dependency usage in git repositories over time
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
 - [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
 - [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
-- [jekyll-stats](https://github.com/andrew/jekyll-stats) - Jekyll plugin that generates site statistics
 <!-- REPOS:END -->
