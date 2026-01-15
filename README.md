@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Package Manager People](https://nesbitt.io/2026/01/14/package-manager-people.html)
 - [Package Manager Glossary](https://nesbitt.io/2026/01/13/package-manager-glossary.html)
 - [16 Best Practices for Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
 - [Package Management Blog Posts](https://nesbitt.io/2026/01/09/package-management-blog-posts.html)
@@ -18,7 +19,6 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [The Package Management Landscape](https://nesbitt.io/2026/01/03/the-package-management-landscape.html)
 - [How Dependabot Actually Works](https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html)
 - [git-pkgs: explore your dependency history](https://nesbitt.io/2026/01/01/git-pkgs-explore-your-dependency-history.html)
-- [Open Source Activity in 2025](https://nesbitt.io/2025/12/31/open-source-activity-in-2025.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
