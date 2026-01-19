@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
 - [Lockfile Format Design and Tradeoffs](https://nesbitt.io/2026/01/17/lockfile-format-design-and-tradeoffs.html)
 - [Package Manager People](https://nesbitt.io/2026/01/14/package-manager-people.html)
 - [Package Manager Glossary](https://nesbitt.io/2026/01/13/package-manager-glossary.html)
@@ -18,12 +19,12 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [The Nine Levels of JavaScript Dependency Hell](https://nesbitt.io/2026/01/05/the-nine-levels-of-javascript-dependency-hell.html)
 - [Making git-pkgs feel like Git](https://nesbitt.io/2026/01/04/making-git-pkgs-feel-like-git.html)
 - [The Package Management Landscape](https://nesbitt.io/2026/01/03/the-package-management-landscape.html)
-- [How Dependabot Actually Works](https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [swhid-go](https://github.com/andrew/swhid-go)
 - [brew-vulns](https://github.com/andrew/brew-vulns) - A Homebrew subcommand that checks installed packages for vulnerabilities
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
 - [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
 - [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
-- [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 <!-- REPOS:END -->
