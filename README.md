@@ -9,6 +9,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [An AI Skill for Skeptical Dependency Management](https://nesbitt.io/2026/01/21/an-ai-skill-for-skeptical-dependency-management.html)
 - [The Lesser Evil of Compliance: Enterprise SBOM Strategy for CRA Readiness](https://nesbitt.io/2026/01/20/the-lesser-evil-of-compliance.html)
 - [importmap.lock: a lockfile for the web](https://nesbitt.io/2026/01/19/importmap-lock.html)
 - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
@@ -18,12 +19,12 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [16 Best Practices for Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
 - [Package Management Blog Posts](https://nesbitt.io/2026/01/09/package-management-blog-posts.html)
 - [brew-vulns: CVE scanning for Homebrew](https://nesbitt.io/2026/01/08/brew-vulns-cve-scanning-for-homebrew.html)
-- [The Nine Levels of JavaScript Dependency Hell](https://nesbitt.io/2026/01/05/the-nine-levels-of-javascript-dependency-hell.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go)
 - [brew-vulns](https://github.com/andrew/brew-vulns) - A Homebrew subcommand that checks installed packages for vulnerabilities
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
@@ -33,5 +34,4 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 - [grass-ruby](https://github.com/andrew/grass-ruby) - A fast Sass compiler for Ruby, powered by grass (Rust)
 - [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
-- [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
 <!-- REPOS:END -->
