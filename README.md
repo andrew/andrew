@@ -2,9 +2,13 @@
 
 I'm a software engineer based in the UK, mostly working with Ruby. I’ve spent over a decade working in the world of package management and software dependencies — building tools to make open source more understandable, discoverable, and sustainable.
 
-These days I’m focused on [Ecosyste.ms](https://github.com/ecosyste-ms), a project that maps dependency networks across open-source ecosystems to identify the projects that really matter — the ones everything else relies on. It builds on ideas from [Libraries.io](https://github.com/librariesio/libraries.io), which I started and later sold to Tidelift, and takes the concept further with broader data coverage and deeper analysis.
+These days I'm focused on [Ecosyste.ms](https://github.com/ecosyste-ms), a project that maps dependency networks across open-source ecosystems to identify the projects that really matter. It builds on ideas from [Libraries.io](https://github.com/librariesio/libraries.io), which I started and later sold to Tidelift, and takes the concept further with broader data coverage and deeper analysis.
+
+I'm also building [git-pkgs](https://github.com/git-pkgs/git-pkgs), a git subcommand that tracks dependency changes across your repository's history. It indexes lockfiles over time so you can see who added each dependency, when, and why, along with vulnerability scanning and supply chain security features.
 
 I also created [Octobox](https://github.com/octobox/octobox), which helps developers manage GitHub notifications, and [24 Pull Requests](https://github.com/24pullrequests/24pullrequests), an initiative to encourage open-source contributions during December.
+
+I write about package managers, dependency resolution, and software supply chains at [nesbitt.io/package-managers](https://nesbitt.io/package-managers/).
 
 ### Latest Blog Posts
 
