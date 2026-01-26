@@ -13,6 +13,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [PkgFed: ActivityPub for Package Releases](https://nesbitt.io/2026/01/25/pkgfed-activitypub-for-package-releases.html)
 - [Rewriting git-pkgs in Go](https://nesbitt.io/2026/01/24/rewriting-git-pkgs-in-go.html)
 - [Package Management is a Wicked Problem](https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html)
 - [A Protocol for Package Management](https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html)
@@ -22,7 +23,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
 - [Lockfile Format Design and Tradeoffs](https://nesbitt.io/2026/01/17/lockfile-format-design-and-tradeoffs.html)
 - [Package Manager People](https://nesbitt.io/2026/01/14/package-manager-people.html)
-- [Package Manager Glossary](https://nesbitt.io/2026/01/13/package-manager-glossary.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
