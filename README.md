@@ -13,6 +13,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [The C-Shaped Hole in Package Management](https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html)
 - [Introducing Package Chaos Monkey](https://nesbitt.io/2026/01/26/introducing-package-chaos-monkey.html)
 - [PkgFed: ActivityPub for Package Releases](https://nesbitt.io/2026/01/25/pkgfed-activitypub-for-package-releases.html)
 - [Rewriting git-pkgs in Go](https://nesbitt.io/2026/01/24/rewriting-git-pkgs-in-go.html)
@@ -22,7 +23,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [The Lesser Evil of Compliance: Enterprise SBOM Strategy for CRA Readiness](https://nesbitt.io/2026/01/20/the-lesser-evil-of-compliance.html)
 - [importmap.lock: a lockfile for the web](https://nesbitt.io/2026/01/19/importmap-lock.html)
 - [Workspaces and Monorepos in Package Managers](https://nesbitt.io/2026/01/18/workspaces-and-monorepos-in-package-managers.html)
-- [Lockfile Format Design and Tradeoffs](https://nesbitt.io/2026/01/17/lockfile-format-design-and-tradeoffs.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
