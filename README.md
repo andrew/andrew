@@ -13,6 +13,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Will AI Make Package Managers Redundant?](https://nesbitt.io/2026/01/30/will-ai-make-package-managers-redundant.html)
 - [Zig and the M×N Supply Chain Problem](https://nesbitt.io/2026/01/29/zig-and-the-mxn-supply-chain-problem.html)
 - [The Dependency Layer in Digital Sovereignty](https://nesbitt.io/2026/01/28/the-dependency-layer-in-digital-sovereignty.html)
 - [The C-Shaped Hole in Package Management](https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html)
@@ -22,7 +23,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [Package Management is a Wicked Problem](https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html)
 - [A Protocol for Package Management](https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html)
 - [An AI Skill for Skeptical Dependency Management](https://nesbitt.io/2026/01/21/an-ai-skill-for-skeptical-dependency-management.html)
-- [The Lesser Evil of Compliance: Enterprise SBOM Strategy for CRA Readiness](https://nesbitt.io/2026/01/20/the-lesser-evil-of-compliance.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
