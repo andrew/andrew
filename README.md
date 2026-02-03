@@ -30,7 +30,6 @@ I write about package managers, dependency resolution, and software supply chain
 <!-- REPOS:START -->
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
-- [brew-vulns](https://github.com/andrew/brew-vulns) - A Homebrew subcommand that checks installed packages for vulnerabilities
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
 - [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 - [gitlab-faraday](https://github.com/andrew/gitlab-faraday) - Ruby wrapper for the GitLab REST API, a fork of github.com/NARKOZ/gitlab updated to use Faraday
@@ -38,4 +37,5 @@ I write about package managers, dependency resolution, and software supply chain
 - [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
 - [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
+- [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 <!-- REPOS:END -->
