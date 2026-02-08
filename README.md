@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Dependency Resolution Methods](https://nesbitt.io/2026/02/06/dependency-resolution-methods.html)
 - [Crates.io’s Freaky Friday](https://nesbitt.io/2026/02/06/cratesio-freaky-friday.html)
 - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 - [Package Management at FOSDEM 2026](https://nesbitt.io/2026/02/04/package-management-at-fosdem-2026.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [The Dependency Layer in Digital Sovereignty](https://nesbitt.io/2026/01/28/the-dependency-layer-in-digital-sovereignty.html)
 - [The C-Shaped Hole in Package Management](https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html)
 - [Introducing Package Chaos Monkey](https://nesbitt.io/2026/01/26/introducing-package-chaos-monkey.html)
-- [PkgFed: ActivityPub for Package Releases](https://nesbitt.io/2026/01/25/pkgfed-activitypub-for-package-releases.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
