@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Package Manager Podcast Episodes](https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html)
 - [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
 - [Dependency Resolution Methods](https://nesbitt.io/2026/02/06/dependency-resolution-methods.html)
 - [Crates.io’s Freaky Friday](https://nesbitt.io/2026/02/06/cratesio-freaky-friday.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Will AI Make Package Managers Redundant?](https://nesbitt.io/2026/01/30/will-ai-make-package-managers-redundant.html)
 - [Zig and the M×N Supply Chain Problem](https://nesbitt.io/2026/01/29/zig-and-the-mxn-supply-chain-problem.html)
 - [The Dependency Layer in Digital Sovereignty](https://nesbitt.io/2026/01/28/the-dependency-layer-in-digital-sovereignty.html)
-- [The C-Shaped Hole in Package Management](https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
