@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Respectful Open Source](https://nesbitt.io/2026/02/13/respectful-open-source.html)
 - [The Many Flavors of Ignore Files](https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html)
 - [Package Management Consulting](https://nesbitt.io/2026/02/11/package-management-consulting.html)
 - [Lockfiles Killed Vendoring](https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Crates.io’s Freaky Friday](https://nesbitt.io/2026/02/06/cratesio-freaky-friday.html)
 - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 - [Package Management at FOSDEM 2026](https://nesbitt.io/2026/02/04/package-management-at-fosdem-2026.html)
-- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
