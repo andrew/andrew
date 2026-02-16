@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Separating Download from Install in Docker Builds](https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html)
 - [Package Management Namespaces](https://nesbitt.io/2026/02/14/package-management-namespaces.html)
 - [Respectful Open Source](https://nesbitt.io/2026/02/13/respectful-open-source.html)
 - [The Many Flavors of Ignore Files](https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
 - [Dependency Resolution Methods](https://nesbitt.io/2026/02/06/dependency-resolution-methods.html)
 - [Crates.io’s Freaky Friday](https://nesbitt.io/2026/02/06/cratesio-freaky-friday.html)
-- [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
