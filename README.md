@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [What Package Registries Could Borrow from OCI](https://nesbitt.io/2026/02/18/what-package-registries-could-borrow-from-oci.html)
 - [Platform Strings](https://nesbitt.io/2026/02/17/platform-strings.html)
 - [CHANGELOG.md](https://nesbitt.io/2026/02/16/changelog.html)
 - [Separating Download from Install in Docker Builds](https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Package Management Consulting](https://nesbitt.io/2026/02/11/package-management-consulting.html)
 - [Lockfiles Killed Vendoring](https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html)
 - [Package Manager Podcast Episodes](https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html)
-- [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
