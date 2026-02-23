@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Forge-Specific Repository Folders](https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html)
 - [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html)
 - [ActivityPub](https://nesbitt.io/2026/02/20/activitypub.html)
 - [Go Modules for Package Management Tooling](https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Separating Download from Install in Docker Builds](https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html)
 - [Package Management Namespaces](https://nesbitt.io/2026/02/14/package-management-namespaces.html)
 - [Respectful Open Source](https://nesbitt.io/2026/02/13/respectful-open-source.html)
-- [The Many Flavors of Ignore Files](https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
