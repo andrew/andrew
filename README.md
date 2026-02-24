@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Where Do Specifications Fit in the Dependency Tree?](https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html)
 - [Forge-Specific Repository Folders](https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html)
 - [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html)
 - [ActivityPub](https://nesbitt.io/2026/02/20/activitypub.html)
@@ -24,12 +25,12 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [CHANGELOG.md](https://nesbitt.io/2026/02/16/changelog.html)
 - [Separating Download from Install in Docker Builds](https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html)
 - [Package Management Namespaces](https://nesbitt.io/2026/02/14/package-management-namespaces.html)
-- [Respectful Open Source](https://nesbitt.io/2026/02/13/respectful-open-source.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
@@ -39,5 +40,4 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
 - [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
-- [semgrep-codeql](https://github.com/andrew/semgrep-codeql) - Converted security rules fromcodeql to semgrep format.
 <!-- REPOS:END -->
