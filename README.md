@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Two Kinds of Attestation](https://nesbitt.io/2026/02/25/two-kinds-of-attestation.html)
 - [Reproducible Builds in Language Package Managers](https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html)
 - [Where Do Specifications Fit in the Dependency Tree?](https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html)
 - [Forge-Specific Repository Folders](https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [What Package Registries Could Borrow from OCI](https://nesbitt.io/2026/02/18/what-package-registries-could-borrow-from-oci.html)
 - [Platform Strings](https://nesbitt.io/2026/02/17/platform-strings.html)
 - [CHANGELOG.md](https://nesbitt.io/2026/02/16/changelog.html)
-- [Separating Download from Install in Docker Builds](https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
