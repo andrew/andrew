@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Downstream Testing](https://nesbitt.io/2026/03/01/downstream-testing.html)
 - [npm Data Subject Access Request](https://nesbitt.io/2026/02/28/npm-data-subject-access-request.html)
 - [xkcd 2347](https://nesbitt.io/2026/02/27/xkcd-2347.html)
 - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Forge-Specific Repository Folders](https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html)
 - [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html)
 - [ActivityPub](https://nesbitt.io/2026/02/20/activitypub.html)
-- [Go Modules for Package Management Tooling](https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
