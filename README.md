@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [.gitlocal](https://nesbitt.io/2026/03/06/gitlocal.html)
 - [Package Manager Magic Files](https://nesbitt.io/2026/03/05/package-manager-magic-files.html)
 - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
 - [Package Management is Naming All the Way Down](https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html)
@@ -24,12 +25,12 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [xkcd 2347](https://nesbitt.io/2026/02/27/xkcd-2347.html)
 - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
 - [Two Kinds of Attestation](https://nesbitt.io/2026/02/25/two-kinds-of-attestation.html)
-- [Reproducible Builds in Language Package Managers](https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
 - [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
@@ -39,5 +40,4 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [grass-ruby](https://github.com/andrew/grass-ruby) - A fast Sass compiler for Ruby, powered by grass (Rust)
 - [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
 - [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
-- [changelog-parser](https://github.com/andrew/changelog-parser) - Parse changelog files into structured data
 <!-- REPOS:END -->
