@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html)
 - [Announcing New Working Groups](https://nesbitt.io/2026/03/07/announcing-new-working-groups.html)
 - [.gitlocal](https://nesbitt.io/2026/03/06/gitlocal.html)
 - [Package Manager Magic Files](https://nesbitt.io/2026/03/05/package-manager-magic-files.html)
@@ -24,12 +25,13 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Downstream Testing](https://nesbitt.io/2026/03/01/downstream-testing.html)
 - [npm Data Subject Access Request](https://nesbitt.io/2026/02/28/npm-data-subject-access-request.html)
 - [xkcd 2347](https://nesbitt.io/2026/02/27/xkcd-2347.html)
-- [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
+- [foss-backstage](https://github.com/andrew/foss-backstage)
 - [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
 - [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
@@ -38,6 +40,4 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 - [gitlab-faraday](https://github.com/andrew/gitlab-faraday) - Ruby wrapper for the GitLab REST API, a fork of github.com/NARKOZ/gitlab updated to use Faraday
 - [grass-ruby](https://github.com/andrew/grass-ruby) - A fast Sass compiler for Ruby, powered by grass (Rust)
-- [dirhash](https://github.com/andrew/dirhash) - Generate Go module zip digests compatible with sum.golang.org
-- [go-bundler](https://github.com/andrew/go-bundler) - Go-style imports for Ruby
 <!-- REPOS:END -->
