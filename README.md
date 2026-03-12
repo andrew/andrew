@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [git-pkgs/actions](https://nesbitt.io/2026/03/11/git-pkgs-actions.html)
 - [Just Use Postgres](https://nesbitt.io/2026/03/10/just-use-postgres.html)
 - [100 Posts](https://nesbitt.io/2026/03/09/100-posts.html)
 - [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
 - [Package Management is Naming All the Way Down](https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html)
 - [Transitive Trust](https://nesbitt.io/2026/03/02/transitive-trust.html)
-- [Downstream Testing](https://nesbitt.io/2026/03/01/downstream-testing.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
