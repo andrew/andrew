@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Forge](https://nesbitt.io/2026/03/13/forge.html)
 - [Reviewing ENISA’s Package Manager Advisory](https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html)
 - [git-pkgs/actions](https://nesbitt.io/2026/03/11/git-pkgs-actions.html)
 - [Just Use Postgres](https://nesbitt.io/2026/03/10/just-use-postgres.html)
@@ -24,14 +25,13 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [.gitlocal](https://nesbitt.io/2026/03/06/gitlocal.html)
 - [Package Manager Magic Files](https://nesbitt.io/2026/03/05/package-manager-magic-files.html)
 - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
-- [Package Management is Naming All the Way Down](https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
-- [foss-backstage](https://github.com/andrew/foss-backstage)
+- [foss-backstage](https://github.com/andrew/foss-backstage) - Is InnerSource Commons good for open source?
 - [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
 - [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
