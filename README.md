@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
 - [Package Manager Mirroring](https://nesbitt.io/2026/03/20/package-manager-mirroring.html)
 - [The Fragmented World of Dependency Policy](https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html)
 - [Git Remote Helpers](https://nesbitt.io/2026/03/18/git-remote-helpers.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Reviewing ENISA’s Package Manager Advisory](https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html)
 - [git-pkgs/actions](https://nesbitt.io/2026/03/11/git-pkgs-actions.html)
 - [Just Use Postgres](https://nesbitt.io/2026/03/10/just-use-postgres.html)
-- [100 Posts](https://nesbitt.io/2026/03/09/100-posts.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
