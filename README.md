@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [What does Open Source mean?](https://nesbitt.io/2026/04/04/what-does-open-source-mean.html)
 - [Package Manager Easter Eggs](https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html)
 - [npm’s Defaults Are Bad](https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html)
 - [Git Diff Drivers](https://nesbitt.io/2026/03/30/git-diff-drivers.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Package Manager Mirroring](https://nesbitt.io/2026/03/20/package-manager-mirroring.html)
 - [The Fragmented World of Dependency Policy](https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html)
 - [Git Remote Helpers](https://nesbitt.io/2026/03/18/git-remote-helpers.html)
-- [Guided Meditation for Developers](https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
