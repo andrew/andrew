@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Package Security Problems for AI Agents](https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html)
 - [Who Built This?](https://nesbitt.io/2026/04/07/who-built-this.html)
 - [The Cathedral and the Catacombs](https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html)
 - [What does Open Source mean?](https://nesbitt.io/2026/04/04/what-does-open-source-mean.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [The Roles of Packages](https://nesbitt.io/2026/03/29/the-roles-of-packages.html)
 - [The Top 10 Biggest Conspiracies in Open Source](https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html)
 - [How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html)
-- [Package Manager Mirroring](https://nesbitt.io/2026/03/20/package-manager-mirroring.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
