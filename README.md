@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Common Package Specification](https://nesbitt.io/2026/04/13/common-package-specification.html)
 - [Package Registries and Pagination](https://nesbitt.io/2026/04/10/package-registries-and-pagination.html)
 - [Package Security Defenses for AI Agents](https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html)
 - [Package Security Problems for AI Agents](https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Package Manager Easter Eggs](https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html)
 - [npm’s Defaults Are Bad](https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html)
 - [Git Diff Drivers](https://nesbitt.io/2026/03/30/git-diff-drivers.html)
-- [The Roles of Packages](https://nesbitt.io/2026/03/29/the-roles-of-packages.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
