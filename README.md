@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
 - [The stages of package installation](https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html)
 - [brief](https://nesbitt.io/2026/04/21/brief.html)
 - [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Package Registries and Pagination](https://nesbitt.io/2026/04/10/package-registries-and-pagination.html)
 - [Package Security Defenses for AI Agents](https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html)
 - [Package Security Problems for AI Agents](https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html)
-- [Who Built This?](https://nesbitt.io/2026/04/07/who-built-this.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
