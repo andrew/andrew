@@ -30,6 +30,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [VID](https://github.com/andrew/VID) - Content-addressed vulnerability identifiers
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
 - [foss-backstage](https://github.com/andrew/foss-backstage) - Is InnerSource Commons good for open source?
 - [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
@@ -39,5 +40,4 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
 - [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 - [gitlab-faraday](https://github.com/andrew/gitlab-faraday) - Ruby wrapper for the GitLab REST API, a fork of github.com/NARKOZ/gitlab updated to use Faraday
-- [grass-ruby](https://github.com/andrew/grass-ruby) - A fast Sass compiler for Ruby, powered by grass (Rust)
 <!-- REPOS:END -->
