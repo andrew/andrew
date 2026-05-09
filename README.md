@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Weekend at Bernie’s](https://nesbitt.io/2026/05/08/weekend-at-bernies.html)
 - [Free as in Tribbles](https://nesbitt.io/2026/05/07/free-as-in-tribbles.html)
 - [Revisiting the 2015 Open Source Census](https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html)
 - [Package Manager Threat Models](https://nesbitt.io/2026/05/05/package-manager-threat-models.html)
@@ -24,12 +25,12 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Announcing the 2026 Open Source Fantasy Draft](https://nesbitt.io/2026/04/30/open-source-fantasy-draft.html)
 - [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
 - [The stages of package installation](https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html)
-- [brief](https://nesbitt.io/2026/04/21/brief.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
 - [VID](https://github.com/andrew/VID) - Content-addressed vulnerability identifiers
 - [zizmor](https://github.com/andrew/zizmor) - Static analysis for GitHub Actions
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
@@ -39,5 +40,4 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
-- [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 <!-- REPOS:END -->
