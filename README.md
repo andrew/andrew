@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [proxy](https://nesbitt.io/2026/05/11/proxy.html)
 - [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html)
 - [The Mismeasure of Open Source](https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html)
 - [Weekend at Bernie’s](https://nesbitt.io/2026/05/08/weekend-at-bernies.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Package Manager CWEs](https://nesbitt.io/2026/05/04/package-manager-cwes.html)
 - [A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html)
 - [Patching and forking in package managers](https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html)
-- [Announcing the 2026 Open Source Fantasy Draft](https://nesbitt.io/2026/04/30/open-source-fantasy-draft.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
@@ -32,7 +32,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 <!-- REPOS:START -->
 - [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
 - [VID](https://github.com/andrew/VID) - Content-addressed vulnerability identifiers
-- [zizmor](https://github.com/andrew/zizmor) - Static analysis for GitHub Actions
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
 - [foss-backstage](https://github.com/andrew/foss-backstage) - Is InnerSource Commons good for open source?
 - [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
@@ -40,4 +39,5 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
+- [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 <!-- REPOS:END -->
