@@ -30,6 +30,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
 - [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
 - [VID](https://github.com/andrew/VID) - Content-addressed vulnerability identifiers
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
@@ -39,5 +40,4 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
 - [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
-- [diffoscope](https://github.com/andrew/diffoscope) - Ruby bindings for diffoscope - Compare packages, tarballs, files, URLs, or package URLs
 <!-- REPOS:END -->
