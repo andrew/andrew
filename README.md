@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Signing is for the bad days](https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html)
 - [This Week in Package Management: 23 May 2026](https://nesbitt.io/2026/05/23/this-week-in-package-management.html)
 - [Dependency Pruning](https://nesbitt.io/2026/05/22/dependency-pruning.html)
 - [RFC: Artificial Contributors to Open Source](https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Showing Our Work](https://nesbitt.io/2026/05/13/showing-our-work.html)
 - [Not a Security Issue](https://nesbitt.io/2026/05/12/not-a-security-issue.html)
 - [proxy](https://nesbitt.io/2026/05/11/proxy.html)
-- [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
