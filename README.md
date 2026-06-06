@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Install-script allowlists](https://nesbitt.io/2026/06/05/install-script-allowlists.html)
 - [gittuf - a signed log for git refs](https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html)
 - [Skills Registry Threat Models](https://nesbitt.io/2026/06/03/skills-registry-threat-models.html)
 - [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html)
@@ -24,20 +25,19 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Package managers that package package managers](https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html)
 - [CHAOSS Metrics in 2026](https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html)
 - [GitHub Actions security in Python packages](https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html)
-- [Signing is for the bad days](https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [jekyll-standard-site](https://github.com/andrew/jekyll-standard-site) - Jekyll plugin that emits standard.site verification artifacts
 - [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
 - [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
-- [VID](https://github.com/andrew/VID) - Content-addressed vulnerability identifiers
+- [vid](https://github.com/andrew/vid) - Content-addressed vulnerability identifiers
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
 - [foss-backstage](https://github.com/andrew/foss-backstage) - Is InnerSource Commons good for open source?
 - [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
 - [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 - [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
-- [sarif](https://github.com/andrew/sarif) - A Ruby SDK for SARIF (Static Analysis Results Interchange Format) 2.1.0.
 <!-- REPOS:END -->
