@@ -15,6 +15,7 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Joint Guidance on Vulnerability Naming and Disclosure](https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html)
 - [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html)
 - [Forms of Open Source Government](https://nesbitt.io/2026/06/09/forms-of-open-source-government.html)
 - [Package Manager Patents](https://nesbitt.io/2026/06/08/package-manager-patents.html)
@@ -24,7 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Skills Registry Threat Models](https://nesbitt.io/2026/06/03/skills-registry-threat-models.html)
 - [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html)
 - [This Week in Package Management: 30 May 2026](https://nesbitt.io/2026/05/30/this-week-in-package-management.html)
-- [Composer’s dependency policies](https://nesbitt.io/2026/05/29/composer-dependency-policies.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
