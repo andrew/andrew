@@ -15,6 +15,8 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
+- [Scrutineer: scanning open source without flooding maintainers](https://nesbitt.io/2026/06/25/scrutineer.html)
 - [Sunsetting a Package Manager](https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html)
 - [This Week in Package Management: 20 June 2026](https://nesbitt.io/2026/06/20/this-week-in-package-management.html)
 - [Open Source vs the Invisible Hand](https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html)
@@ -23,8 +25,6 @@ I also offer [consulting services](https://nesbitt.io/consulting/) around packag
 - [Joint Guidance on Vulnerability Naming and Disclosure](https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html)
 - [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html)
 - [Forms of Open Source Government](https://nesbitt.io/2026/06/09/forms-of-open-source-government.html)
-- [Package Manager Patents](https://nesbitt.io/2026/06/08/package-manager-patents.html)
-- [This Week in Package Management: 6 June 2026](https://nesbitt.io/2026/06/06/this-week-in-package-management.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
