@@ -10,7 +10,7 @@ I also created [Octobox](https://github.com/octobox/octobox), which helps develo
 
 I write about package managers, dependency resolution, and software supply chains at [nesbitt.io/package-managers](https://nesbitt.io/package-managers/).
 
-I also offer [consulting services](https://nesbitt.io/consulting/) around package management, including registry design and architecture, software supply chain security, governance policies, ecosystem intelligence, and enterprise dependency strategy. I work with registry operators, foundations, enterprise teams, and research groups.
+<!-- I also offer [consulting services](https://nesbitt.io/consulting/) around package management, including registry design and architecture, software supply chain security, governance policies, ecosystem intelligence, and enterprise dependency strategy. I work with registry operators, foundations, enterprise teams, and research groups. -->
 
 ### Latest Blog Posts
 
