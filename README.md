@@ -15,6 +15,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Unbundling the standard library](https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html)
 - [This Week in Package Management: 27 June 2026](https://nesbitt.io/2026/06/27/this-week-in-package-management.html)
 - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 - [Scrutineer: scanning open source without flooding maintainers](https://nesbitt.io/2026/06/25/scrutineer.html)
@@ -24,7 +25,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [How Open Source Projects Change Hands](https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html)
 - [This Week in Package Management: 13 June 2026](https://nesbitt.io/2026/06/13/this-week-in-package-management.html)
 - [Joint Guidance on Vulnerability Naming and Disclosure](https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html)
-- [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
