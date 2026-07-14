@@ -30,7 +30,6 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Repos
 
 <!-- REPOS:START -->
-- [homebrew-advisory-database](https://github.com/andrew/homebrew-advisory-database) - OSV-format vulnerability records for Homebrew packages
 - [jekyll-standard-site](https://github.com/andrew/jekyll-standard-site) - Jekyll plugin that emits standard.site verification artifacts
 - [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
 - [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
@@ -40,4 +39,5 @@ I write about package managers, dependency resolution, and software supply chain
 - [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
 - [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
 - [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
+- [swhid-go](https://github.com/andrew/swhid-go) - A Go library and CLI for computing Software Heritage Identifiers (SWHIDs).
 <!-- REPOS:END -->
