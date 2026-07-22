@@ -15,6 +15,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 - [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html)
 - [Plumbing Homebrew into the vulnerability ecosystem](https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html)
 - [This Week in Package Management: 11 July 2026](https://nesbitt.io/2026/07/11/this-week-in-package-management.html)
@@ -24,7 +25,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html)
 - [The CRA is not about open source](https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html)
 - [Taking Roads and Bridges literally](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html)
-- [Unbundling the standard library](https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
