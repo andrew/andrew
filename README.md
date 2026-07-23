@@ -15,6 +15,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
 - [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 - [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html)
 - [Plumbing Homebrew into the vulnerability ecosystem](https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html)
@@ -24,12 +25,12 @@ I write about package managers, dependency resolution, and software supply chain
 - [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html)
 - [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html)
 - [The CRA is not about open source](https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html)
-- [Taking Roads and Bridges literally](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [package-name-prefixes](https://github.com/andrew/package-name-prefixes) - Prefix analysis of package names across PyPI, npm, crates.io, rubygems, hex, hackage and NuGet
 - [bundler-resolver-logger](https://github.com/andrew/bundler-resolver-logger) - Experimental structured tracing for Bundler's PubGrub resolver
 - [jekyll-standard-site](https://github.com/andrew/jekyll-standard-site) - Jekyll plugin that emits standard.site verification artifacts
 - [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
@@ -39,5 +40,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [foss-backstage](https://github.com/andrew/foss-backstage) - Is InnerSource Commons good for open source?
 - [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
 - [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
-- [managing-dependencies](https://github.com/andrew/managing-dependencies) - Claude Code skill for evaluating packages and managing dependencies securely
 <!-- REPOS:END -->
