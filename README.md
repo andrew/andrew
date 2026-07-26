@@ -15,6 +15,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [This Week in Package Management: 25 July 2026](https://nesbitt.io/2026/07/25/this-week-in-package-management.html)
 - [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
 - [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
@@ -24,7 +25,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [Package Management as Org Chart](https://nesbitt.io/2026/07/10/package-management-as-org-chart.html)
 - [Unboxed: Zig](https://nesbitt.io/2026/07/09/unboxed-zig.html)
 - [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html)
-- [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
