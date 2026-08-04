@@ -30,6 +30,8 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
+- [critical-ai-scan](https://github.com/andrew/critical-ai-scan) - Survey of explicitly disclosed AI involvement in the git history of critical open source repositories, using the CHAOSS disclosure detectors
 - [package-name-prefixes](https://github.com/andrew/package-name-prefixes) - Prefix analysis of package names across PyPI, npm, crates.io, rubygems, hex, hackage and NuGet
 - [bundler-resolver-logger](https://github.com/andrew/bundler-resolver-logger) - Experimental structured tracing for Bundler's PubGrub resolver
 - [jekyll-standard-site](https://github.com/andrew/jekyll-standard-site) - Jekyll plugin that emits standard.site verification artifacts
@@ -38,6 +40,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [vid](https://github.com/andrew/vid) - Content-addressed vulnerability identifiers
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
 - [foss-backstage](https://github.com/andrew/foss-backstage) - Is InnerSource Commons good for open source?
-- [gitlocal](https://github.com/andrew/gitlocal) - A pre-commit hook for .gitlocal marked files
-- [gitgres](https://github.com/andrew/gitgres) - Store git objects and refs in PostgreSQL tables. Standard git push/clone work against the database through a libgit2-based backend.
 <!-- REPOS:END -->
