@@ -15,6 +15,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [brew install actions/checkout](https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html)
 - [This Week in Package Management: 1 August 2026](https://nesbitt.io/2026/08/01/this-week-in-package-management.html)
 - [The AI Phrasebook](https://nesbitt.io/2026/07/31/the-ai-phrasebook.html)
 - [Wheels, Bottles and Images](https://nesbitt.io/2026/07/30/wheels-bottles-images.html)
@@ -24,7 +25,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
 - [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 - [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html)
-- [Plumbing Homebrew into the vulnerability ecosystem](https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
