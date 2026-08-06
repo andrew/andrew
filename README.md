@@ -15,6 +15,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [A year of AI disclosure in critical packages](https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html)
 - [brew install actions/checkout](https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html)
 - [This Week in Package Management: 1 August 2026](https://nesbitt.io/2026/08/01/this-week-in-package-management.html)
 - [The AI Phrasebook](https://nesbitt.io/2026/07/31/the-ai-phrasebook.html)
@@ -24,7 +25,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html)
 - [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
-- [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
