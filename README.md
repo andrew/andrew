@@ -30,6 +30,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
 - [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
 - [critical-ai-scan](https://github.com/andrew/critical-ai-scan) - Survey of explicitly disclosed AI involvement in the git history of critical open source repositories, using the CHAOSS disclosure detectors
 - [package-name-prefixes](https://github.com/andrew/package-name-prefixes) - Prefix analysis of package names across PyPI, npm, crates.io, rubygems, hex, hackage and NuGet
@@ -39,5 +40,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
 - [vid](https://github.com/andrew/vid) - Content-addressed vulnerability identifiers
 - [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
-- [foss-backstage](https://github.com/andrew/foss-backstage) - Is InnerSource Commons good for open source?
 <!-- REPOS:END -->
