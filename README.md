@@ -30,6 +30,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
 - [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
 - [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
 - [critical-ai-scan](https://github.com/andrew/critical-ai-scan) - Survey of explicitly disclosed AI involvement in the git history of critical open source repositories, using the CHAOSS disclosure detectors
@@ -39,5 +40,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
 - [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
 - [vid](https://github.com/andrew/vid) - Content-addressed vulnerability identifiers
-- [omni_git](https://github.com/andrew/omni_git) - A PostgreSQL extension that stores git repositories in database tables and serves the git smart HTTP protocol, turning Postgres into a git remote.
 <!-- REPOS:END -->
