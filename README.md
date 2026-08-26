@@ -15,6 +15,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Hardening the Override Flag](https://nesbitt.io/2026/08/25/hardening-the-override-flag.html)
 - [This Week in Package Management: 22 August 2026](https://nesbitt.io/2026/08/22/this-week-in-package-management.html)
 - [Issues in the Repo](https://nesbitt.io/2026/08/20/issues-in-the-repo.html)
 - [Two-Factor Authentication Across Package Registries](https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html)
@@ -24,7 +25,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [Shared Code Between Package Managers](https://nesbitt.io/2026/08/11/package-manager-library-reuse.html)
 - [This Week in Package Management: 8 August 2026](https://nesbitt.io/2026/08/08/this-week-in-package-management.html)
 - [The Software Stewardship Lab](https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html)
-- [A year of AI disclosure in critical packages](https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
