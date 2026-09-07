@@ -1,12 +1,14 @@
 ### Hey 👋
 
-I'm a software engineer based in the UK, mostly working with Ruby. I’ve spent over a decade working in the world of package management and software dependencies — building tools to make open source more understandable, discoverable, and sustainable.
+I'm a software engineer based in the UK and a maintainer of [Homebrew](https://brew.sh). I've spent over a decade working in the world of package management and software dependencies, building tools to make open source more understandable, discoverable, and sustainable.
 
 These days I'm focused on [Ecosyste.ms](https://github.com/ecosyste-ms), a project that maps dependency networks across open-source ecosystems to identify the projects that really matter. It builds on ideas from [Libraries.io](https://github.com/librariesio/libraries.io), which I started and later sold to Tidelift, and takes the concept further with broader data coverage and deeper analysis.
 
-I'm also building [git-pkgs](https://github.com/git-pkgs/git-pkgs), a git subcommand that tracks dependency changes across your repository's history. It indexes lockfiles over time so you can see who added each dependency, when, and why, along with vulnerability scanning and supply chain security features.
+I'm also building [git-pkgs](https://github.com/git-pkgs), a family of tools and Go libraries for working with software dependencies. The core `git pkgs` command indexes lockfiles across your repository's history so you can see who added each dependency, when, and why, with vulnerability scanning and supply chain checks on top. Alongside it sit standalone tools like [brief](https://github.com/git-pkgs/brief), [forge](https://github.com/git-pkgs/forge), and [proxy](https://github.com/git-pkgs/proxy).
 
-I also created [Octobox](https://github.com/octobox/octobox), which helps developers manage GitHub notifications, and [24 Pull Requests](https://github.com/24pullrequests/24pullrequests), an initiative to encourage open-source contributions during December.
+With [Alpha-Omega](https://alpha-omega.dev) I work on [Scrutineer](https://github.com/alpha-omega-security/scrutineer), a tool for scanning open source repositories for security vulnerabilities and managing the disclosure process end to end.
+
+I created [Octobox](https://github.com/octobox/octobox), which helps developers manage GitHub notifications, and [24 Pull Requests](https://github.com/24pullrequests/24pullrequests), an initiative to encourage open-source contributions during December.
 
 I write about package managers, dependency resolution, and software supply chains at [nesbitt.io/package-managers](https://nesbitt.io/package-managers/).
 
