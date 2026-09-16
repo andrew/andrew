@@ -17,6 +17,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Shadowing the Standard Library](https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html)
 - [This Week in Package Management: 12 September 2026](https://nesbitt.io/2026/09/12/this-week-in-package-management.html)
 - [Package Manager Trends](https://nesbitt.io/2026/09/10/package-manager-trends.html)
 - [What’s new in git-pkgs](https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html)
@@ -26,7 +27,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [This Week in Package Management: 29 August 2026](https://nesbitt.io/2026/08/29/this-week-in-package-management.html)
 - [Now Hiring: Senior Open Source Maintainer](https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html)
 - [Bazel Module Versions Aren’t SemVer](https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html)
-- [Hardening the Override Flag](https://nesbitt.io/2026/08/25/hardening-the-override-flag.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
