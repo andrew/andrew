@@ -17,6 +17,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [This Week in Package Management: 26 September 2026](https://nesbitt.io/2026/09/26/this-week-in-package-management.html)
 - [Package Manager Sandboxing](https://nesbitt.io/2026/09/24/package-manager-sandboxing.html)
 - [Package Manager Threat Model, Revisited](https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html)
 - [Unfinished Work in Package Security](https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html)
@@ -26,12 +27,12 @@ I write about package managers, dependency resolution, and software supply chain
 - [This Week in Package Management: 12 September 2026](https://nesbitt.io/2026/09/12/this-week-in-package-management.html)
 - [Package Manager Trends](https://nesbitt.io/2026/09/10/package-manager-trends.html)
 - [What’s new in git-pkgs](https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html)
-- [This Week in Package Management: 5 September 2026](https://nesbitt.io/2026/09/05/this-week-in-package-management.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [swh-critical](https://github.com/andrew/swh-critical) - Software Heritage coverage checks for critical package repositories
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
 - [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
 - [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
@@ -41,5 +42,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [jekyll-standard-site](https://github.com/andrew/jekyll-standard-site) - Jekyll plugin that emits standard.site verification artifacts
 - [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
 - [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
-- [vid](https://github.com/andrew/vid) - Content-addressed vulnerability identifiers
 <!-- REPOS:END -->
