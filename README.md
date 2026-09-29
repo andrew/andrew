@@ -32,6 +32,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [swh-git](https://github.com/andrew/swh-git) - Clone archived repositories from Software Heritage using ordinary Git.
 - [swh-critical](https://github.com/andrew/swh-critical) - Software Heritage coverage checks for critical package repositories
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
 - [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
@@ -41,5 +42,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [bundler-resolver-logger](https://github.com/andrew/bundler-resolver-logger) - Experimental structured tracing for Bundler's PubGrub resolver
 - [jekyll-standard-site](https://github.com/andrew/jekyll-standard-site) - Jekyll plugin that emits standard.site verification artifacts
 - [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
-- [weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie's blog post
 <!-- REPOS:END -->
