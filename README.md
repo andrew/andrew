@@ -32,6 +32,9 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [swh-go](https://github.com/andrew/swh-go) - Go client for the Software Heritage Web API, generated from an OpenAPI description with hand-written pagination, rate limiting and auth
+- [swh-openapi](https://github.com/andrew/swh-openapi) - An OpenAPI description of the Software Heritage Web API, generated from swh-web's own endpoint documentation
+- [swhid-wasm](https://github.com/andrew/swhid-wasm) - Calculate Software Heritage identifiers for package archives in the browser with Go and WebAssembly.
 - [swh-git](https://github.com/andrew/swh-git) - Clone archived repositories from Software Heritage using ordinary Git.
 - [swh-critical](https://github.com/andrew/swh-critical) - Software Heritage coverage checks for critical package repositories
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
@@ -39,7 +42,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
 - [critical-ai-scan](https://github.com/andrew/critical-ai-scan) - Survey of explicitly disclosed AI involvement in the git history of critical open source repositories, using the CHAOSS disclosure detectors
 - [package-name-prefixes](https://github.com/andrew/package-name-prefixes) - Prefix analysis of package names across PyPI, npm, crates.io, rubygems, hex, hackage and NuGet
-- [bundler-resolver-logger](https://github.com/andrew/bundler-resolver-logger) - Experimental structured tracing for Bundler's PubGrub resolver
-- [jekyll-standard-site](https://github.com/andrew/jekyll-standard-site) - Jekyll plugin that emits standard.site verification artifacts
-- [pycon](https://github.com/andrew/pycon) - Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
 <!-- REPOS:END -->
