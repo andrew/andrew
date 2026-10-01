@@ -36,10 +36,10 @@ I write about package managers, dependency resolution, and software supply chain
 - [swh-openapi](https://github.com/andrew/swh-openapi) - An OpenAPI description of the Software Heritage Web API, generated from swh-web's own endpoint documentation
 - [swhid-wasm](https://github.com/andrew/swhid-wasm) - Calculate Software Heritage identifiers for package archives in the browser with Go and WebAssembly.
 - [swh-git](https://github.com/andrew/swh-git) - Clone archived repositories from Software Heritage using ordinary Git.
+- [code-commons](https://github.com/andrew/code-commons) - Slides for my CodeCommons talk on linking package identities and ecosyste.ms metadata to archived source in Software Heritage.
 - [swh-critical](https://github.com/andrew/swh-critical) - Software Heritage coverage checks for critical package repositories
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
 - [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
 - [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
 - [critical-ai-scan](https://github.com/andrew/critical-ai-scan) - Survey of explicitly disclosed AI involvement in the git history of critical open source repositories, using the CHAOSS disclosure detectors
-- [package-name-prefixes](https://github.com/andrew/package-name-prefixes) - Prefix analysis of package names across PyPI, npm, crates.io, rubygems, hex, hackage and NuGet
 <!-- REPOS:END -->
