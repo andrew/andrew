@@ -17,6 +17,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [This Week in Package Management: 10 October 2026](https://nesbitt.io/2026/10/10/this-week-in-package-management.html)
 - [Package Management RFCs](https://nesbitt.io/2026/10/07/package-management-rfcs.html)
 - [This Week in Package Management: 3 October 2026](https://nesbitt.io/2026/10/03/this-week-in-package-management.html)
 - [Software Heritage Identifiers](https://nesbitt.io/2026/10/01/software-heritage-identifiers.html)
@@ -26,7 +27,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [Unfinished Work in Package Security](https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html)
 - [This Week in Package Management: 19 September 2026](https://nesbitt.io/2026/09/19/this-week-in-package-management.html)
 - [Good Morning, Your Toaster Is Compromised](https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html)
-- [Shadowing the Standard Library](https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
