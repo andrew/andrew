@@ -17,6 +17,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html)
 - [Weekend at Bernie’s II](https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html)
 - [This Week in Source Control: 4 November 2026](https://nesbitt.io/2026/11/04/this-week-in-source-control.html)
 - [This Week in Package Management: 31 October 2026](https://nesbitt.io/2026/10/31/this-week-in-package-management.html)
@@ -26,7 +27,6 @@ I write about package managers, dependency resolution, and software supply chain
 - [This Week in Package Management: 24 October 2026](https://nesbitt.io/2026/10/24/this-week-in-package-management.html)
 - [One Small Bug](https://nesbitt.io/2026/10/23/one-small-bug.html)
 - [Trust Stores Are Dependencies Too](https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html)
-- [This Week in Package Management: 17 October 2026](https://nesbitt.io/2026/10/17/this-week-in-package-management.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
