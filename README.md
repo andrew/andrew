@@ -17,6 +17,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Introducing Ninety](https://nesbitt.io/2026/11/09/introducing-ninety.html)
 - [This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html)
 - [Weekend at Bernie’s II](https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html)
 - [This Week in Source Control: 4 November 2026](https://nesbitt.io/2026/11/04/this-week-in-source-control.html)
@@ -26,12 +27,12 @@ I write about package managers, dependency resolution, and software supply chain
 - [Package Management Devroom at FOSDEM 2027: Call for Participation](https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html)
 - [This Week in Package Management: 24 October 2026](https://nesbitt.io/2026/10/24/this-week-in-package-management.html)
 - [One Small Bug](https://nesbitt.io/2026/10/23/one-small-bug.html)
-- [Trust Stores Are Dependencies Too](https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [clone](https://github.com/andrew/clone) - Clone git repositories into ~/code/<owner>/<repo>, skipping ones you already have
 - [swh-go](https://github.com/andrew/swh-go) - Go client for the Software Heritage Web API, generated from an OpenAPI description with hand-written pagination, rate limiting and auth
 - [swh-openapi](https://github.com/andrew/swh-openapi) - An OpenAPI description of the Software Heritage Web API, generated from swh-web's own endpoint documentation
 - [swhid-wasm](https://github.com/andrew/swhid-wasm) - Calculate Software Heritage identifiers for package archives in the browser with Go and WebAssembly.
@@ -41,5 +42,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
 - [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
 - [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
-- [critical-ai-scan](https://github.com/andrew/critical-ai-scan) - Survey of explicitly disclosed AI involvement in the git history of critical open source repositories, using the CHAOSS disclosure detectors
 <!-- REPOS:END -->
