@@ -17,6 +17,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [This Week in Package Management: 14 November 2026](https://nesbitt.io/2026/11/14/this-week-in-package-management.html)
 - [This Week in Source Control: 11 November 2026](https://nesbitt.io/2026/11/11/this-week-in-source-control.html)
 - [Introducing Ninety](https://nesbitt.io/2026/11/09/introducing-ninety.html)
 - [This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html)
@@ -26,12 +27,12 @@ I write about package managers, dependency resolution, and software supply chain
 - [Signing and Attestations Across Package Registries](https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html)
 - [This Week in Source Control: 28 October 2026](https://nesbitt.io/2026/10/28/this-week-in-source-control.html)
 - [Package Management Devroom at FOSDEM 2027: Call for Participation](https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html)
-- [This Week in Package Management: 24 October 2026](https://nesbitt.io/2026/10/24/this-week-in-package-management.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [nyu-lecture](https://github.com/andrew/nyu-lecture) - Ten Years of Mapping Open Source: Lessons for Supply Chain Security. NYU lecture slides.
 - [clone](https://github.com/andrew/clone) - Clone git repositories into ~/code/<owner>/<repo>, skipping ones you already have
 - [swh-go](https://github.com/andrew/swh-go) - Go client for the Software Heritage Web API, generated from an OpenAPI description with hand-written pagination, rate limiting and auth
 - [swh-openapi](https://github.com/andrew/swh-openapi) - An OpenAPI description of the Software Heritage Web API, generated from swh-web's own endpoint documentation
@@ -41,5 +42,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [swh-critical](https://github.com/andrew/swh-critical) - Software Heritage coverage checks for critical package repositories
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
 - [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
-- [homebrew-actions](https://github.com/andrew/homebrew-actions) - Install GitHub Actions from a Homebrew tap
 <!-- REPOS:END -->
