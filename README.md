@@ -32,6 +32,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Repos
 
 <!-- REPOS:START -->
+- [scrutineer-e2e-parent](https://github.com/andrew/scrutineer-e2e-parent) - Throwaway parent repo for scrutineer end-to-end testing
 - [nyu-lecture](https://github.com/andrew/nyu-lecture) - Ten Years of Mapping Open Source: Lessons for Supply Chain Security. NYU lecture slides.
 - [clone](https://github.com/andrew/clone) - Clone git repositories into ~/code/<owner>/<repo>, skipping ones you already have
 - [swh-go](https://github.com/andrew/swh-go) - Go client for the Software Heritage Web API, generated from an OpenAPI description with hand-written pagination, rate limiting and auth
@@ -41,5 +42,4 @@ I write about package managers, dependency resolution, and software supply chain
 - [code-commons](https://github.com/andrew/code-commons) - Slides for my CodeCommons talk on linking package identities and ecosyste.ms metadata to archived source in Software Heritage.
 - [swh-critical](https://github.com/andrew/swh-critical) - Software Heritage coverage checks for critical package repositories
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
-- [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
 <!-- REPOS:END -->
