@@ -17,6 +17,7 @@ I write about package managers, dependency resolution, and software supply chain
 ### Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [This Week in Source Control: 18 November 2026](https://nesbitt.io/2026/11/18/this-week-in-source-control.html)
 - [This Week in Package Management: 14 November 2026](https://nesbitt.io/2026/11/14/this-week-in-package-management.html)
 - [This Week in Source Control: 11 November 2026](https://nesbitt.io/2026/11/11/this-week-in-source-control.html)
 - [Introducing Ninety](https://nesbitt.io/2026/11/09/introducing-ninety.html)
@@ -26,13 +27,11 @@ I write about package managers, dependency resolution, and software supply chain
 - [This Week in Package Management: 31 October 2026](https://nesbitt.io/2026/10/31/this-week-in-package-management.html)
 - [Signing and Attestations Across Package Registries](https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html)
 - [This Week in Source Control: 28 October 2026](https://nesbitt.io/2026/10/28/this-week-in-source-control.html)
-- [Package Management Devroom at FOSDEM 2027: Call for Participation](https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html)
 <!-- BLOG-POSTS:END -->
 
 ### Latest Repos
 
 <!-- REPOS:START -->
-- [scrutineer-e2e-parent](https://github.com/andrew/scrutineer-e2e-parent) - Throwaway parent repo for scrutineer end-to-end testing
 - [nyu-lecture](https://github.com/andrew/nyu-lecture) - Ten Years of Mapping Open Source: Lessons for Supply Chain Security. NYU lecture slides.
 - [clone](https://github.com/andrew/clone) - Clone git repositories into ~/code/<owner>/<repo>, skipping ones you already have
 - [swh-go](https://github.com/andrew/swh-go) - Go client for the Software Heritage Web API, generated from an OpenAPI description with hand-written pagination, rate limiting and auth
@@ -42,4 +41,5 @@ I write about package managers, dependency resolution, and software supply chain
 - [code-commons](https://github.com/andrew/code-commons) - Slides for my CodeCommons talk on linking package identities and ecosyste.ms metadata to archived source in Software Heritage.
 - [swh-critical](https://github.com/andrew/swh-critical) - Software Heritage coverage checks for critical package repositories
 - [embedded-rust-packages](https://github.com/andrew/embedded-rust-packages) - Find critical open-source packages that ship Rust code inside a non-Rust ecosystem
+- [package-manager-library-reuse](https://github.com/andrew/package-manager-library-reuse) - Survey of which libraries package managers themselves depend on, vendor, or link against
 <!-- REPOS:END -->
